@@ -44,7 +44,7 @@ If you could present your work in a Git version control repository hosting servi
 
 ### Time Limit:
 
-We want to respect your time, so this should not take you more than 4 hours. If you run out of time, please document how you would finish this assessment in the README.
+In order to ensure that your time is respected, we recommend that you dedicate as much time as you deem necessary to complete the task assessment. However, please keep in mind that we anticipate it should take no less than 4 hours. In the event that you are unable to complete the assessment within this timeframe, kindly provide documentation in a README outlining your proposed approach to finish the assessment.
 
 
 Best of luck!
