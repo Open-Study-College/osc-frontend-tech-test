@@ -38,7 +38,7 @@ The basket should be in the form of a mini basket and will require the following
 
 ### Submission
 
-We appreciate the visuals may be sacrificed for this assessment due to time constraints but we expect markup, class naming and code structure to be prioritised. That said, including attention to the visuals would be welcomed.
+While we acknowledge that time constraints may lead to potential sacrifices in visual aspects, we emphasise that prioritising markup, class naming, and code structure is essential for this assessment. However, we also encourage a considerate approach towards the visual elements, ensuring they are given appropriate attention.
 If you could present your work in a Git version control repository hosting service such as Github, Bitbucket, GitLab, Codepen, Codesandbox etc and provide some form of a demo of your submission working.
 
 
