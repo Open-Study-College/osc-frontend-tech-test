@@ -47,8 +47,8 @@ Thank you for your interest in joining Open Study College (OSC)! This assessment
 - **API Integration:** Fetch products from [mock.shop](https://mock.shop/).
 - **Routing:** React Router (or built-in routing if using Remix).
 - **Accessibility:** Follow WCAG best practices (ARIA roles, semantic HTML).
-- **Testing:** Add at least **one unit test** and **one integration test** (Jest + React Testing Library recommended).
-- **Performance:** Optimize for load speed and performance (lazy loading, code-splitting, etc.).
+- **Testing:** Add at least **one unit test** and **one integration test** (Vitest + React Testing Library recommended).
+- **Performance:** Optimise for load speed and performance (lazy loading, code-splitting, etc.).
 
 ---
 
