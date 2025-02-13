@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/1517907/231233022-7eeda0e4-c61f-4ba3-8e73-643f8b24abc6.jpg" width="300">
 
-# OSC Front-end Engineer Technical Assessment
+# OSC Frontend Engineer Technical Assessment
 
 ## Introduction
 
